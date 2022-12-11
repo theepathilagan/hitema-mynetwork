@@ -1,0 +1,63 @@
+{
+  "users": [
+    {
+      "email": "sam@test.com",
+      "password": "$2a$10$qzLqISiNBdCLMhy8u.yte.0kn25M8fjyIWDN22kFn5FpwftGXjemu",
+      "pseudo": "sam",
+      "urlImgProfil": "https://media.carrefour.fr/medias/6cb1233e5dcb3b189a3ecc1aa8a7edcc/p_540x540/7c962677bfb948389273f038965bc4d0-image.jpg",
+      "id": 1
+    }
+  ],
+  "articles": [
+    {
+      "contenu": "parfait",
+      "urlImgArticle": "https://www.photo-paysage.com/albums/Paysages/Lac-riviere-cascade/thumb_croatie-lacs-plitvice-cascades-7.jpg",
+      "like": 3,
+      "pseudo": "Nicolas",
+      "usrImg": "http://lofrev.net/wp-content/photos/2017/05/user_logo.png",
+      "date": 1649277945051,
+      "commentaires": [
+        {
+          "id": 1,
+          "contenu": "C'est un commentaire ",
+          "pseudo": "Alain",
+          "dt": 1649277945051
+        },
+        {
+          "id": 2,
+          "contenu": "Excellent!",
+          "pseudo": "jilo",
+          "dt": 1649277945051
+        }
+      ],
+      "id": 1
+    },
+    {
+      "contenu": "ok",
+      "urlImgArticle": "https://img.freepik.com/vecteurs-libre/paysage-montagne-design-plat-dessine-main_23-2149158786.jpg?w=2000",
+      "like": 3,
+      "pseudo": "sami",
+      "usrImg": "http://lofrev.net/wp-content/photos/2017/05/user_logo.png",
+      "date": 1649277945051,
+      "commentaires": [
+        {
+          "id": 1,
+          "contenu": "parfait",
+          "pseudo": "Nicolas",
+          "dt": 1649277945051
+        }
+      ],
+      "id": 2
+    },
+    {
+      "contenu": "dac",
+      "urlImgArticle": "https://www.naturepaysage.photo/wp-content/uploads/Nature-Paysage-portfolio-17-novembre-2019-0017-3.jpg",
+      "like": 3,
+      "pseudo": "sam",
+      "usrImg": "https://media.carrefour.fr/medias/6cb1233e5dcb3b189a3ecc1aa8a7edcc/p_540x540/7c962677bfb948389273f038965bc4d0-image.jpg",
+      "date": 1649277945051,
+      "commentaires": [],
+      "id": 3
+    }
+  ]
+}
